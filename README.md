@@ -7,7 +7,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/honey/commits/main "Maintenance")
 [![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/honey)](https://github.com/Ankit-Sharma1011/honey/branches "GitHub branches")
 [![Github commits](https://badgen.net/github/commits/Ankit-Sharma1011/honey/main)](https://github.com/Ankit-Sharma1011/honey/commits "Github commits")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ae743696-8136-4141-842f-442367faca34/deploy-status)](https://honeysite.netlify.app/ "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae743696-8136-4141-842f-442367faca34/deploy-status)](https://honeyfood-restaurant.netlify.app/ "Netlify Status")
 [![GitHub issues](https://img.shields.io/github/issues/Ankit-Sharma1011/honey)](https://github.com/Ankit-Sharma1011/honey/issues "GitHub issues")
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Ankit-Sharma1011/honey)](https://github.com/Ankit-Sharma1011/honey/pulls "GitHub pull requests")
 
@@ -29,7 +29,7 @@
 
 ## :raised_hands: Contribute
 
-You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
+You might encounter some bugs while using this app. You are more than welcome to contribute. Please submit your changes as a pull request, and I will review them before merging. Make sure you follow community guidelines.
 
 ## Buy Me a Coffee 🍺
 

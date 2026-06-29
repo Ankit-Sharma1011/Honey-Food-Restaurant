@@ -3,7 +3,7 @@
 ![Honey - Modern Food & Restaurant Website](/.github/images/img_main.png "Honey - Modern Food & Restaurant Website")
 
 [![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Ankit-Sharma1011 "Ask Me Anything!")
-[![GitHub License](https://img.shields.io/badgen.net/license/Ankit-Sharma1011/Honey-Food-Restaurant?style=for-the-badge)](https://github.com/Ankit-Sharma1011/Honey-Food-Restaurant/blob/main/LICENSE .md "GitHub license")
+[![GitHub License](https://img.shields.io/badgen.net/github/license/Ankit-Sharma1011/Honey-Food-Restaurant?style=for-the-badge)](https://github.com/Ankit-Sharma1011/Honey-Food-Restaurant/blob/main/LICENSE.md "GitHub license")
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Ankit-Sharma1011/Honey-Food-Restaurant/commits/main "Maintenance")
 [![GitHub branches](https://badgen.net/github/branches/Ankit-Sharma1011/Honey-Food-Restaurant)](https://github.com/Ankit-Sharma1011/Honey-Food-Restaurant/branches "GitHub branches")
 [![Github commits](https://badgen.net/github/commits/Ankit-Sharma1011/Honey-Food-Restaurant/main)](https://github.com/Ankit-Sharma1011/Honey-Food-Restaurant/commits "Github commits")
